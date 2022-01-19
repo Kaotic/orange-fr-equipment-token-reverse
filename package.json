@@ -1,0 +1,15 @@
+{
+  "name": "orange-fr-equipment-token-reverse",
+  "version": "1.0.0",
+  "description": "orange-fr-equipment-token-reverse",
+  "main": "index.js",
+  "engines": {
+    "node" : "14.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
